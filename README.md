@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vvdakhode@gmail.com**
 
-- 📄 Know about my experiences [12+ Years](12+ Years)
+- 📄 Know about my experiences 10+ Years in Data Engineering and 2+ Years in AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
