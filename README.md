@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vvdakhode/](https://github.com/vvdakhode/)
 
-- 💬 Ask me about **Data Engineering and Data platforms**
+- 💬 Ask me about **Data Engineering,Data platforms and AI**
 
 - 📫 How to reach me **vvdakhode@gmail.com**
 
