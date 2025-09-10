@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Virendra Dakhode</h1>
 <h3 align="center">A passionate Data and AI engineer from Pune, India</h3>
 
