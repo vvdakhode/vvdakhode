@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Virendra Dakhode</h1>
 <h3 align="center">A passionate Data and AI engineer from Pune, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvdakhode&label=Profile%20views&color=0e75b6&style=flat" alt="vvdakhode" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvdakhode" alt="vvdakhode" /></a> </p>
-
 - 🔭 I’m currently working on **Data and AI engineering**
 
 - 🌱 I’m currently learning **AI**
