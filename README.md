@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data and AI engineering**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI** and Implementing some AI use cases 
 
 - 👨‍💻 All of my projects are available at [https://github.com/vvdakhode/](https://github.com/vvdakhode/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vvdakhode@gmail.com**
 
-- 📄 Know about my experiences 10+ Years in Data Engineering and 2+ Years in AI
+- 📄 Know about my experiences **10+** Years in Data Engineering and **2+** Years in AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
